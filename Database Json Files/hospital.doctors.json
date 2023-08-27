@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "64e9d0488c9b115b3b505a5f"
+  },
+  "name": "Ali",
+  "email": "Khan",
+  "password": "1234",
+  "__v": 0,
+  "role": "Admin"
+},
+{
+  "_id": {
+    "$oid": "64e9d09ad7ee617b7f156cd6"
+  },
+  "name": "Ali3",
+  "email": "Khan",
+  "password": "1234",
+  "__v": 0,
+  "role": "Doc"
+},
+{
+  "_id": {
+    "$oid": "64e9d09ad7ee617b7f156cd7"
+  },
+  "name": "Ali1",
+  "email": "Khan",
+  "password": "1234",
+  "__v": 0,
+  "role": "Manage"
+},
+{
+  "_id": {
+    "$oid": "64e9d09ad7ee617b7f156cd8"
+  },
+  "name": "Ali2",
+  "email": "Khan",
+  "password": "1234",
+  "__v": 0,
+  "role": "Manage"
+},
+{
+  "_id": {
+    "$oid": "64ea6b7d30d018a8bd23ea60"
+  },
+  "name": "Ali6",
+  "email": "Khan",
+  "password": "1234",
+  "role": "Doc",
+  "__v": 0
+}]

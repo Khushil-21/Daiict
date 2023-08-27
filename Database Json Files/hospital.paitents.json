@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "64ead3f49e18c6ef4682cf3a"
+  },
+  "Fname": "khushil",
+  "Lname": "shah",
+  "Age": "18",
+  "Symptoms": "Fever,vomiting",
+  "Abha": "1045",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ead4279e18c6ef4682cf3c"
+  },
+  "Fname": "Yashvi",
+  "Lname": "Palkhiwala",
+  "Age": "20",
+  "Symptoms": "headache",
+  "Abha": "2401",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ead4449e18c6ef4682cf3e"
+  },
+  "Fname": "Parth",
+  "Lname": "Patel",
+  "Age": "23",
+  "Symptoms": "Cough",
+  "Abha": "3456",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ead4894120d8993591a384"
+  },
+  "Fname": "Parth",
+  "Lname": "Patel",
+  "Age": "23",
+  "Symptoms": "Cough",
+  "Abha": "3456",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ead4894120d8993591a38a"
+  },
+  "Fname": "khushil",
+  "Lname": "shah",
+  "Age": "12",
+  "Symptoms": "fghjk,sdfghjk",
+  "Abha": "1045",
+  "__v": 0
+}]

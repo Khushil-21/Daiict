@@ -16,12 +16,24 @@ export const LoginForm = () => {
             },
             body:JSON.stringify({Username,Password})
 		})
-        const json = await res.json()
-		console.log(json.nameerror)
-        console.log(json.passworderror)
-        if (json.nameerror === "" && json.passworderror === "") {
+		const json = await res.json()
+		console.log(json)
+		// console.log(json.nameerror)
+        // console.log(json.passworderror)
+		if (json.nameerror === "" && json.passworderror === "") {
+
+			console.log(json.role)
+			
+			if (json.role === "Doc") {
+				navigate("/DoctorDashboard")
+			}
+			if (json.role === "Admin") {
+				navigate("/AdminDashboard")
+			}
+			if (json.role === "Manage") {
+				navigate("/ManageDashboard")
+			}
             
-            navigate("/DoctorDashboard")
         }
 
 	}

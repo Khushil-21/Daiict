@@ -1,0 +1,6 @@
+_id,name,email,password,__v,role
+64e9d0488c9b115b3b505a5f,Ali,Khan,1234,0,Admin
+64e9d09ad7ee617b7f156cd6,Ali3,Khan,1234,0,Doc
+64e9d09ad7ee617b7f156cd7,Ali1,Khan,1234,0,Manage
+64e9d09ad7ee617b7f156cd8,Ali2,Khan,1234,0,Manage
+64ea6b7d30d018a8bd23ea60,Ali6,Khan,1234,0,Doc
